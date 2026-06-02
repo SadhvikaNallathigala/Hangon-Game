@@ -7,7 +7,7 @@ This repository contains the tasks and projects completed during the **CodeAlpha
 ## 📌 About the Internship
 The **CodeAlpha Internship Program** provides hands-on experience in Python by working on real-world mini projects. These tasks help in understanding core programming concepts and applying them in practical scenarios.
 
----   
+---    
 
 ## 📂 Repository Structure
 
