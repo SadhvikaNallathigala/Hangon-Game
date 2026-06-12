@@ -74,13 +74,13 @@ Another Python project designed to strengthen programming logic and problem-solv
 1. Clone the repository
 
 ```
-git clone https://github.com/SadhvikaNallathigala/-CodeAlpha_Intenship.git
+git clone https://github.com/SadhvikaNallathigala/Hangon-Game.git
 ```
 
 2. Navigate to the folder
 
 ```
-cd -CodeAlpha_Intenship
+cd Hangon-Game
 ```
 
 3. Run the Python file
