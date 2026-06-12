@@ -1,4 +1,4 @@
-# CodeAlpha Python Internship     
+# Hangon-game     
 
 This repository contains the tasks and projects completed during the **CodeAlpha Python Internship**. The internship focuses on improving Python programming skills through practical projects and problem-solving.
 
